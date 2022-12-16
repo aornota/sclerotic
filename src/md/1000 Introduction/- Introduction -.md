@@ -14,7 +14,7 @@ Note that HCP ranges are not set in stone, e.g. a balanced hand with a "good 12"
 
 To summarize the 1- and 2-level openings bids:
 
-- [{1C}](#-strong-1c-opening_bid) shows a hand with 16+ HCP. This bid is forcing.
+- [{1C}](#-strong-1c-opening-bid) shows a hand with 16+ HCP. This bid is forcing.
 - [{1D}](#-1d-opening-bid) shows a hand with 11-15 HCP and 4+ diamonds. This bid is not forcing.
 - [{1H}](#-1h-opening-bid) shows a hand with 11-15 HCP and 5+ hearts (including 5332 hands with 13-15 HCP). This bid is not forcing.
 - [{1S}](#-1s-opening-bid) shows a hand with 11-15 HCP and 5+ spades (including 5332 hands with 13-15 HCP). This bid is not forcing.
