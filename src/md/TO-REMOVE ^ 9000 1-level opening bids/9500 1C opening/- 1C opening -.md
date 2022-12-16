@@ -1,6 +1,6 @@
 ## <a name="1C_opening"> {1C} opening
 
-All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit - and all balanced (4333, 4432, and 5332) hands with 19-21 HCP - are opened {1C}.
+All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit - and all balanced (4333, 4432 or 5332) hands with 19-21 HCP - are opened {1C}.
 
 (As usual, a 5332 hand with 19-21 HCP and a 5-card major can be opened [{1S}](#1S_opening) or [{1H}](#1H_opening) if it does not feel "no-trumpy" - though with 19-21 HCP, that is unlikely.)
 

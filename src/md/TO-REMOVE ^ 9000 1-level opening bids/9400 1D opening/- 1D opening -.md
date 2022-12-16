@@ -1,6 +1,6 @@
 ## <a name="1D_opening"> {1D} opening
 
-All balanced (4333, 4432, and 5332) hands with either 10-12 HCP or 16-18 HCP should be opened {1D} - except that a 5332 hand with 16-18 HCP and a 5-card major can be opened [{1S}](#1S_opening) or [{1H}](#1H_opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
+All balanced (4333, 4432 or 5332) hands with either 10-12 HCP or 16-18 HCP should be opened {1D} - except that a 5332 hand with 16-18 HCP and a 5-card major can be opened [{1S}](#1S_opening) or [{1H}](#1H_opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
 
 (A 5332 hand with 10-12 HCP and a 5-card major will rarely satisfy the "rule of 20" and should almost always be opened {1D}.)
 

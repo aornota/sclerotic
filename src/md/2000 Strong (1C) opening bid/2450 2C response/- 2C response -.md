@@ -1,3 +1,5 @@
 ## <a name="2C_response_to_1C_opening"> 2C response to 1C opening
 
-_Coming soon..._
+The {2C} response to a {1C} opening bid shows a single-suiter in diamonds (6+ diamonds and no other 4+ card suit) - or a two-suiter (at least 5-4) with longer diamonds - with 9+ HCP. This response is forcing to game.
+
+_More coming soon..._
