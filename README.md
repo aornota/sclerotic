@@ -3,6 +3,27 @@
 ## Table of contents
 
 * [**Introduction**](#Introduction)
+* [**1C opening bid**](#1C_opening_bid)
+* [**1D-response-to-1C-opening bid**](#1D-response-to-1C-opening_bid)
+* [**1H-response-to-1C-opening bid**](#1H-response-to-1C-opening_bid)
+* [**1S-response-to-1C-opening bid**](#1S-response-to-1C-opening_bid)
+* [**1NT-response-to-1C-opening bid**](#1NT-response-to-1C-opening_bid)
+* [**2C-response-to-1C-opening bid**](#2C-response-to-1C-opening_bid)
+* [**2D-response-to-1C-opening bid**](#2D-response-to-1C-opening_bid)
+* [**2H-response-to-1C-opening bid**](#2H-response-to-1C-opening_bid)
+* [**2S-response-to-1C-opening bid**](#2S-response-to-1C-opening_bid)
+* [**2NT-response-to-1C-opening bid**](#2NT-response-to-1C-opening_bid)
+* [**Other-responses-to-1C-opening bid**](#Other-responses-to-1C-opening_bid)
+* [**1D opening bid**](#1D_opening_bid)
+* [**1H opening bid**](#1H_opening_bid)
+* [**1S opening bid**](#1S_opening_bid)
+* [**1NT opening bid**](#1NT_opening_bid)
+* [**2C opening bid**](#2C_opening_bid)
+* [**2D opening bid**](#2D_opening_bid)
+* [**2H opening bid**](#2H_opening_bid)
+* [**2S opening bid**](#2S_opening_bid)
+* [**2NT opening bid**](#2NT_opening_bid)
+* [**Other pre-emptive opening bids**](#Other_pre-emptive_opening_bids)
 
 # <a name="Introduction"> Introduction
 
@@ -20,13 +41,113 @@ Note that HCP ranges are not set in stone, e.g. a balanced hand with a "good 12"
 
 To summarize the 1- and 2-level openings bids:
 
-- [1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#1C_opening) shows a hand with 16+ HCP. This bid is forcing.
-- [1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#1D_opening) shows a hand with 11-15 HCP and 4+ diamonds. This bid is not forcing.
-- [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) shows a hand with 11-15 HCP and 5+ hearts (including 5332 hands with 13-15 HCP). This bid is not forcing.
-- [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) shows a hand with 11-15 HCP and 5+ spades (including 5332 hands with 13-15 HCP). This bid is not forcing.
-- [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_opening) shows a balanced (4333, 4432, and 5332) hand with 13-15 HCP but without a 5-card major. This bid is not forcing.
-- [2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#2C_opening) shows a hand with 11-15 HCP and 6+ clubs. This bid is not forcing.
-- [2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#2D_opening) shows a hand with 11-15 HCP and 4=4=1=4 / 4=4=0=5 / 4=3=1=5 / 3=4=1=5 / 4=2=2=5 / 2=4=2=5 shape. This bid is forcing (with one exception).
-- [2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#2H_opening) shows a hand with 6-10 HCP and (usually) 6 hearts. This bid is not forcing.
-- [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#2S_opening) shows a hand with 6-10 HCP and (usually) 6 spades. This bid is not forcing.
-- [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#2NT_opening) shows a hand with 5+ clubs and 5+ diamonds. The HCP range varies according to vulnerability and seat. This bid is forcing (with one exception).
+- [1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#1C_opening_bid) shows a hand with 16+ HCP. This bid is forcing.
+- [1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#1D_opening_bid) shows a hand with 11-15 HCP and 4+ diamonds. This bid is not forcing.
+- [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening_bid) shows a hand with 11-15 HCP and 5+ hearts (including 5332 hands with 13-15 HCP). This bid is not forcing.
+- [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening_bid) shows a hand with 11-15 HCP and 5+ spades (including 5332 hands with 13-15 HCP). This bid is not forcing.
+- [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_opening_bid) shows a balanced (4333, 4432, and 5332) hand with 13-15 HCP but without a 5-card major. This bid is not forcing.
+- [2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#2C_opening_bid) shows a hand with 11-15 HCP and 6+ clubs. This bid is not forcing.
+- [2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#2D_opening_bid) shows a hand with 11-15 HCP and 4=4=1=4 / 4=4=0=5 / 4=3=1=5 / 3=4=1=5 / 4=2=2=5 / 2=4=2=5 shape. This bid is forcing (with one exception).
+- [2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#2H_opening_bid) shows a hand with 6-10 HCP and (usually) 6 hearts. This bid is not forcing.
+- [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#2S_opening_bid) shows a hand with 6-10 HCP and (usually) 6 spades. This bid is not forcing.
+- [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#2NT_opening_bid) shows a hand with 5+ clubs and 5+ diamonds. The HCP range varies according to vulnerability and seat. This bid is forcing (with one exception).
+
+# <a name="1C_opening_bid"> 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+
+The 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows any hand with 16+ HCP. Responder should bid as follows (assuming that RHO has passed):
+
+With 0-8 HCP and no 7+ card suit, bid [1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#1D_response-to-1C-opening-bid). This bid forces opener to make at least one more bid (assuming that LHO passes).
+
+With 0-8 HCP and 7+ card suit, bid [the suit at the 3- or 4-level](#Other-responses-to-1C-opening-bid). This bid is not forcing.
+
+With 9+ HCP, choose one of the following bids - all of which establish a game-force - depending on shape:
+
+- With a balanced (4333, 4432, and 5332) hand, bid [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_response-to-1C-opening-bid).
+- With a three-suited (4441 or 5440) hand, bid [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_response-to-1C-opening-bid).
+- With a single-suiter in clubs (6+ clubs and no other 4+ card suit) - or with a two-suiter (at least 5-4) with longer clubs - bid [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_response-to-1C-opening-bid).
+- With a single-suiter in diamonds (6+ diamonds and no other 4+ card suit) - or with a two-suiter (at least 5-4) with longer diamonds - bid [2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#2C_response-to-1C-opening-bid).
+- With a single-suiter in hearts (6+ hearts and no other 4+ card suit) - or with a two-suiter (at least 5-4) with longer-or-equal hearts - bid [2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#2D_response-to-1C-opening-bid).
+- With a single-suiter in spades (6+ spades and no other 4+ card suit) - or with a spades-and-clubs or spades-and-diamonds two-suiter (at least 5-4) with longer-or-equal spades - bid [2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#2H_response-to-1C-opening-bid).
+-- Note that the 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response does not include a two-suiter with spades and hearts. (With longer-or-equal hearts, the response is 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png); with longer spades, the response is 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).)
+- With a two-suiter with equal length in clubs and diamonds, bid [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#2S_response-to-1C-opening-bid).
+- With a two-suiter in hearts and spades with longer spades, bid [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#2NT_response-to-1C-opening-bid).
+
+# <a name="1D-response-to-1C-opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+
+_Coming soon..._
+
+# <a name="1H-response-to-1C-opening_bid"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+
+_Coming soon..._
+
+# <a name="1S-response-to-1C-opening_bid"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+
+_Coming soon..._
+
+# <a name="1NT-response-to-1C-opening_bid"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+
+_Coming soon..._
+
+# <a name="2C-response-to-1C-opening_bid"> 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+
+_Coming soon..._
+
+# <a name="2D-response-to-1C-opening_bid"> 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+
+_Coming soon..._
+
+# <a name="2H-response-to-1C-opening_bid"> 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+
+_Coming soon..._
+
+# <a name="2S-response-to-1C-opening_bid"> 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+
+_Coming soon..._
+
+# <a name="2NT-response-to-1C-opening_bid"> 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+
+_Coming soon..._
+
+# <a name="Other-responses-to-1C-opening_bid"> Other responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+
+_Coming soon..._
+
+# <a name="1D_opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid
+
+_Coming soon..._
+
+# <a name="1H_opening_bid"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid
+
+_Coming soon..._
+
+# <a name="1S_opening_bid"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid
+
+_Coming soon..._
+
+# <a name="1NT_opening_bid"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
+
+_Coming soon..._
+
+# <a name="2C_opening_bid"> 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+
+_Coming soon..._
+
+# <a name="2D_opening_bid"> 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid
+
+_Coming soon..._
+
+# <a name="2H_opening_bid"> 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid
+
+_Coming soon..._
+
+# <a name="2S_opening_bid"> 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid
+
+_Coming soon..._
+
+# <a name="2NT_opening_bid"> 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
+
+_Coming soon..._
+
+# <a name="Other_pre-emptive_opening_bids"> Other pre-emptive opening bids
+
+_Coming soon..._
