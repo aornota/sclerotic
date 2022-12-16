@@ -4,26 +4,28 @@
 
 * [**Introduction**](#Introduction)
 * [**1C opening bid**](#1C_opening_bid)
-* [**1D-response-to-1C-opening bid**](#1D-response-to-1C-opening_bid)
-* [**1H-response-to-1C-opening bid**](#1H-response-to-1C-opening_bid)
-* [**1S-response-to-1C-opening bid**](#1S-response-to-1C-opening_bid)
-* [**1NT-response-to-1C-opening bid**](#1NT-response-to-1C-opening_bid)
-* [**2C-response-to-1C-opening bid**](#2C-response-to-1C-opening_bid)
-* [**2D-response-to-1C-opening bid**](#2D-response-to-1C-opening_bid)
-* [**2H-response-to-1C-opening bid**](#2H-response-to-1C-opening_bid)
-* [**2S-response-to-1C-opening bid**](#2S-response-to-1C-opening_bid)
-* [**2NT-response-to-1C-opening bid**](#2NT-response-to-1C-opening_bid)
-* [**Other-responses-to-1C-opening bid**](#Other-responses-to-1C-opening_bid)
-* [**1D opening bid**](#1D_opening_bid)
-* [**1H opening bid**](#1H_opening_bid)
-* [**1S opening bid**](#1S_opening_bid)
-* [**1NT opening bid**](#1NT_opening_bid)
-* [**2C opening bid**](#2C_opening_bid)
-* [**2D opening bid**](#2D_opening_bid)
-* [**2H opening bid**](#2H_opening_bid)
-* [**2S opening bid**](#2S_opening_bid)
-* [**2NT opening bid**](#2NT_opening_bid)
-* [**Other pre-emptive opening bids**](#Other_pre-emptive_opening_bids)
+  * [_**1D response to 1C opening bid**_](#1D_response_to_1C_opening_bid)
+  * [_**1H response to 1C opening bid**_](#1H_response_to_1C_opening_bid)
+  * [_**1S response to 1C opening bid**_](#1S_response_to_1C_opening_bid)
+  * [_**1NT response to 1C opening bid**_](#1NT_response_to_1C_opening_bid)
+  * [_**2C response to 1C opening bid**_](#2C_response_to_1C_opening_bid)
+  * [_**2D response to 1C opening bid**_](#2D_response_to_1C_opening_bid)
+  * [_**2H response to 1C opening bid**_](#2H_response_to_1C_opening_bid)
+  * [_**2S response to 1C opening bid**_](#2S_response_to_1C_opening_bid)
+  * [_**2NT response to 1C opening bid**_](#2NT_response_to_1C_opening_bid)
+  * [_**Other responses to 1C opening bid**_](#Other_responses_to_1C_opening_bid)
+* [**Other constructive opening bids**](#Other_constructive_opening_bids)
+  * [_**1D opening bid**_](#1D_opening_bid)
+  * [_**1H opening bid**_](#1H_opening_bid)
+  * [_**1S opening bid**_](#1S_opening_bid)
+  * [_**1NT opening bid**_](#1NT_opening_bid)
+  * [_**2C opening bid**_](#2C_opening_bid)
+  * [_**2D opening bid**_](#2D_opening_bid)
+* [**Pre-emptive opening bids**](#Pre-emptive_opening_bids)
+  * [_**2H opening bid**_](#2H_opening_bid)
+  * [_**2S opening bid**_](#2S_opening_bid)
+  * [_**2NT opening bid**_](#2NT_opening_bid)
+  * [_**Other pre-emptive opening bids**_](#Other_pre-emptive_opening_bids)
 
 # <a name="Introduction"> Introduction
 
@@ -72,82 +74,86 @@ With 9+ HCP, choose one of the following bids - all of which establish a game-fo
 - With a two-suiter with equal length in clubs and diamonds, bid [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#2S_response-to-1C-opening-bid).
 - With a two-suiter in hearts and spades with longer spades, bid [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#2NT_response-to-1C-opening-bid).
 
-# <a name="1D-response-to-1C-opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="1D_response_to_1C_opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 
 _Coming soon..._
 
-# <a name="1H-response-to-1C-opening_bid"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="1H_response_to_1C_opening_bid"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 
 _Coming soon..._
 
-# <a name="1S-response-to-1C-opening_bid"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="1S_response_to_1C_opening_bid"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 
 _Coming soon..._
 
-# <a name="1NT-response-to-1C-opening_bid"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="1NT_response_to_1C_opening_bid"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 
 _Coming soon..._
 
-# <a name="2C-response-to-1C-opening_bid"> 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="2C_response_to_1C_opening_bid"> 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 
 _Coming soon..._
 
-# <a name="2D-response-to-1C-opening_bid"> 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="2D_response_to_1C_opening_bid"> 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 
 _Coming soon..._
 
-# <a name="2H-response-to-1C-opening_bid"> 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="2H_response_to_1C_opening_bid"> 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 
 _Coming soon..._
 
-# <a name="2S-response-to-1C-opening_bid"> 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="2S_response_to_1C_opening_bid"> 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 
 _Coming soon..._
 
-# <a name="2NT-response-to-1C-opening_bid"> 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="2NT_response_to_1C_opening_bid"> 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 
 _Coming soon..._
 
-# <a name="Other-responses-to-1C-opening_bid"> Other responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="Other_responses_to_1C_opening_bid"> Other responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 
 _Coming soon..._
 
-# <a name="1D_opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid
+# <a name="Other_constructive_opening_bids"> Other constructive opening bids
+
+## <a name="1D_opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid
 
 _Coming soon..._
 
-# <a name="1H_opening_bid"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid
+## <a name="1H_opening_bid"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid
 
 _Coming soon..._
 
-# <a name="1S_opening_bid"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid
+## <a name="1S_opening_bid"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid
 
 _Coming soon..._
 
-# <a name="1NT_opening_bid"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
+## <a name="1NT_opening_bid"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
 
 _Coming soon..._
 
-# <a name="2C_opening_bid"> 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="2C_opening_bid"> 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 
 _Coming soon..._
 
-# <a name="2D_opening_bid"> 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid
+## <a name="2D_opening_bid"> 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid
 
 _Coming soon..._
 
-# <a name="2H_opening_bid"> 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid
+# <a name="Pre-emptive_opening_bids"> Pre-emptive opening bids
+
+## <a name="2H_opening_bid"> 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid
 
 _Coming soon..._
 
-# <a name="2S_opening_bid"> 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid
+## <a name="2S_opening_bid"> 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid
 
 _Coming soon..._
 
-# <a name="2NT_opening_bid"> 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
+## <a name="2NT_opening_bid"> 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
 
 _Coming soon..._
 
-# <a name="Other_pre-emptive_opening_bids"> Other pre-emptive opening bids
+## <a name="Other_pre-emptive_opening_bids"> Other pre-emptive opening bids
 
 _Coming soon..._

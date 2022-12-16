@@ -1,3 +1,3 @@
-# <a name="1NT_opening_bid"> {1NT} opening bid
+## <a name="1NT_opening_bid"> {1NT} opening bid
 
 _Coming soon..._

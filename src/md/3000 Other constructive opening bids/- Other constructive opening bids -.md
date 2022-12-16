@@ -1,3 +1,5 @@
+# <a name="Other_constructive_opening_bids"> Other constructive opening bids
+
 {file:3100 1D opening bid\- 1D opening bid -.md}
 
 {file:3200 1H opening bid\- 1H opening bid -.md}
