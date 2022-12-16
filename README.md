@@ -2,32 +2,32 @@
 
 ## Table of contents
 
-* [**-introduction**](#-introduction)
-* [**1C opening bid**](#1C_opening_bid)
-  * [_**1D response to 1C opening bid**_](#1D_response_to_1C_opening_bid)
-  * [_**1H response to 1C opening bid**_](#1H_response_to_1C_opening_bid)
-  * [_**1S response to 1C opening bid**_](#1S_response_to_1C_opening_bid)
-  * [_**1NT response to 1C opening bid**_](#1NT_response_to_1C_opening_bid)
-  * [_**2C response to 1C opening bid**_](#2C_response_to_1C_opening_bid)
-  * [_**2D response to 1C opening bid**_](#2D_response_to_1C_opening_bid)
-  * [_**2H response to 1C opening bid**_](#2H_response_to_1C_opening_bid)
-  * [_**2S response to 1C opening bid**_](#2S_response_to_1C_opening_bid)
-  * [_**2NT response to 1C opening bid**_](#2NT_response_to_1C_opening_bid)
-  * [_**Other responses to 1C opening bid**_](#Other_responses_to_1C_opening_bid)
-* [**-other-constructive-opening-bids**](#-other-constructive-opening-bids)
-  * [_**1D opening bid**_](#1D_opening_bid)
-  * [_**1H opening bid**_](#1H_opening_bid)
-  * [_**1S opening bid**_](#1S_opening_bid)
-  * [_**1NT opening bid**_](#1NT_opening_bid)
-  * [_**2C opening bid**_](#2C_opening_bid)
-  * [_**2D opening bid**_](#2D_opening_bid)
-* [**-pre-emptive-opening-bids**](#-pre-emptive-opening-bids)
-  * [_**2H opening bid**_](#2H_opening_bid)
-  * [_**2S opening bid**_](#2S_opening_bid)
-  * [_**2NT opening bid**_](#2NT_opening_bid)
-  * [_**Other pre-emptive opening bids**_](#Other_pre-emptive_opening_bids)
+* [**Introduction**](#-introduction)
+* [**1C opening bid**](#-1c-opening-bid)
+  * [_**1D response to 1C opening bid**_](#-1d-response-to-1c-opening-bid)
+  * [_**1H response to 1C opening bid**_](#-1h-response-to-1c-opening-bid)
+  * [_**1S response to 1C opening bid**_](#-1s-response-to-1c-opening-bid)
+  * [_**1NT response to 1C opening bid**_](#-1nt-response-to-1c-opening-bid)
+  * [_**2C response to 1C opening bid**_](#-2c-response-to-1c-opening-bid)
+  * [_**2D response to 1C opening bid**_](#-2d-response-to-1c-opening-bid)
+  * [_**2H response to 1C opening bid**_](#-2h-response-to-1c-opening-bid)
+  * [_**2S response to 1C opening bid**_](#-2s-response-to-1c-opening-bid)
+  * [_**2NT response to 1C opening bid**_](#-2nt-response-to-1c-opening-bid)
+  * [_**Other responses to 1C opening bid**_](#-other-responses-to-1c-opening-bid)
+* [**Other constructive opening bids**](#-other-constructive-opening-bids)
+  * [_**1D opening bid**_](#-1d-opening-bid)
+  * [_**1H opening bid**_](#-1h-opening-bid)
+  * [_**1S opening bid**_](#-1s-opening-bid)
+  * [_**1NT opening bid**_](#-1nt-opening-bid)
+  * [_**2C opening bid**_](#-2c-opening-bid)
+  * [_**2D opening bid**_](#-2d-opening-bid)
+* [**Pre-emptive opening bids**](#-pre-emptive-opening-bids)
+  * [_**2H opening bid**_](#-2h-opening-bid)
+  * [_**2S opening bid**_](#-2s-opening-bid)
+  * [_**2NT opening bid**_](#-2nt-opening-bid)
+  * [_**Other pre-emptive opening bids**_](#-other-pre-emptive-opening-bids)
 
-# <a name="-introduction"> Introduction
+# <a name="Introduction"> Introduction
 
 Sclerotic is an experimental "strong club" Bridge bidding system.
 
@@ -54,7 +54,7 @@ To summarize the 1- and 2-level openings bids:
 - [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#2S_opening_bid) shows a hand with 6-10 HCP and (usually) 6 spades. This bid is not forcing.
 - [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#2NT_opening_bid) shows a hand with 5+ clubs and 5+ diamonds. The HCP range varies according to vulnerability and seat. This bid is forcing (with one exception).
 
-# <a name="1C_opening_bid"> 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+# <a name="1C_opening_bid"> 1C opening bid
 
 The 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows any hand with 16+ HCP. Responder should bid as follows (assuming that RHO has passed):
 
@@ -114,43 +114,43 @@ _Coming soon..._
 
 _Coming soon..._
 
-# <a name="-other-constructive-opening-bids"> Other constructive opening bids
+# <a name="Other_constructive_opening_bids"> Other constructive opening bids
 
-## <a name="1D_opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid
-
-_Coming soon..._
-
-## <a name="1H_opening_bid"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid
+## <a name="1D_opening_bid"> 1D opening bid
 
 _Coming soon..._
 
-## <a name="1S_opening_bid"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid
+## <a name="1H_opening_bid"> 1H opening bid
 
 _Coming soon..._
 
-## <a name="1NT_opening_bid"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
+## <a name="1S_opening_bid"> 1S opening bid
 
 _Coming soon..._
 
-## <a name="2C_opening_bid"> 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="1NT_opening_bid"> 1NT opening bid
 
 _Coming soon..._
 
-## <a name="2D_opening_bid"> 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid
+## <a name="2C_opening_bid"> 2C opening bid
 
 _Coming soon..._
 
-# <a name="-pre-emptive-opening-bids"> Pre-emptive opening bids
-
-## <a name="2H_opening_bid"> 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid
+## <a name="2D_opening_bid"> 2D opening bid
 
 _Coming soon..._
 
-## <a name="2S_opening_bid"> 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid
+# <a name="Pre-emptive_opening_bids"> Pre-emptive opening bids
+
+## <a name="2H_opening_bid"> 2H opening bid
 
 _Coming soon..._
 
-## <a name="2NT_opening_bid"> 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
+## <a name="2S_opening_bid"> 2S opening bid
+
+_Coming soon..._
+
+## <a name="2NT_opening_bid"> 2NT opening bid
 
 _Coming soon..._
 

@@ -1,4 +1,4 @@
-# <a name="-introduction"> Introduction
+# <a name="Introduction"> Introduction
 
 Sclerotic is an experimental "strong club" Bridge bidding system.
 
