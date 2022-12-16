@@ -2,9 +2,9 @@
 
 The {1C} opening bid shows any hand with 16+ HCP. Responder should bid as follows (assuming that RHO has passed):
 
-With 0-8 HCP and no 7+ card suit, bid [{1D}](#1D_response-to-1C-opening-bid). This bid forces opener to make at least one more bid (assuming that LHO passes).
+With 0-8 HCP and no 7+ card suit, bid [{1D}](#-1d-response-to-1c-opening). This bid forces opener to make at least one more bid (assuming that LHO passes).
 
-With 0-8 HCP and 7+ card suit, bid [the suit at the 3- or 4-level](#Other-responses-to-1C-opening-bid). This bid is not forcing.
+With 0-8 HCP and 7+ card suit, bid [the suit at the 3- or 4-level](#-other-responses-to-1c-opening). This bid is not forcing.
 
 With 9+ HCP, choose one of the following bids - all of which establish a game-force - depending on shape:
 
