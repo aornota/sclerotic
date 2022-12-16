@@ -14,7 +14,7 @@ With 9+ HCP, choose one of the following bids - all of which establish a game-fo
 - With a single-suiter in diamonds (6+ diamonds and no other 4+ card suit) - or with a two-suiter (at least 5-4) with longer diamonds - bid [{2C}](#-2c-response-to-1c-opening).
 - With a single-suiter in hearts (6+ hearts and no other 4+ card suit) - or with a two-suiter (at least 5-4) with longer-or-equal hearts - bid [{2D}](#-2d-response-to-1c-opening).
 - With a single-suiter in spades (6+ spades and no other 4+ card suit) - or with a spades-and-clubs or spades-and-diamonds two-suiter (at least 5-4) with longer-or-equal spades - bid [{2H}](#-2h-response-to-1c-opening).
-  - Note that the {2H} response does not include a two-suiter with spades and hearts. (With longer-or-equal hearts, the response is {2D}; with longer spades, the response is {2NT}.)
+  - Note that the {2H} response does not include a spades-and-hearts two-suiter. (With longer-or-equal hearts, the response is {2D}; with longer spades, the response is {2NT}.)
 - With a two-suiter with equal length in clubs and diamonds, bid [{2S}](#-2s-response-to-1c-opening).
 - With a two-suiter in hearts and spades with longer spades, bid [{2NT}](#-2nt-response-to-1c-opening).
 
