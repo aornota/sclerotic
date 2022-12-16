@@ -64,15 +64,15 @@ With 0-8 HCP and 7+ card suit, bid [the suit at the 3- or 4-level](#-other-respo
 
 With 9+ HCP, choose one of the following bids - all of which establish a game-force - depending on shape:
 
-* With a balanced (4333, 4432, and 5332) hand, bid [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#-1h-response-to-1c-opening).
-* With a three-suited (4441 or 5440) hand, bid [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-1s-response-to-1c-opening).
-* With a single-suiter in clubs (6+ clubs and no other 4+ card suit) - or with a two-suiter (at least 5-4) with longer clubs - bid [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#-1nt-response-to-1c-opening).
-* With a single-suiter in diamonds (6+ diamonds and no other 4+ card suit) - or with a two-suiter (at least 5-4) with longer diamonds - bid [2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#-2c-response-to-1c-opening).
-* With a single-suiter in hearts (6+ hearts and no other 4+ card suit) - or with a two-suiter (at least 5-4) with longer-or-equal hearts - bid [2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#-2d-response-to-1c-opening).
-* With a single-suiter in spades (6+ spades and no other 4+ card suit) - or with a spades-and-clubs or spades-and-diamonds two-suiter (at least 5-4) with longer-or-equal spades - bid [2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#-2h-response-to-1c-opening).
-** Note that the 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response does not include a two-suiter with spades and hearts. (With longer-or-equal hearts, the response is 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png); with longer spades, the response is 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).)
-* With a two-suiter with equal length in clubs and diamonds, bid [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-2s-response-to-1c-opening).
-* With a two-suiter in hearts and spades with longer spades, bid [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#-2nt-response-to-1c-opening).
+- With a balanced (4333, 4432, and 5332) hand, bid [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#-1h-response-to-1c-opening).
+- With a three-suited (4441 or 5440) hand, bid [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-1s-response-to-1c-opening).
+- With a single-suiter in clubs (6+ clubs and no other 4+ card suit) - or with a two-suiter (at least 5-4) with longer clubs - bid [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#-1nt-response-to-1c-opening).
+- With a single-suiter in diamonds (6+ diamonds and no other 4+ card suit) - or with a two-suiter (at least 5-4) with longer diamonds - bid [2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#-2c-response-to-1c-opening).
+- With a single-suiter in hearts (6+ hearts and no other 4+ card suit) - or with a two-suiter (at least 5-4) with longer-or-equal hearts - bid [2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#-2d-response-to-1c-opening).
+- With a single-suiter in spades (6+ spades and no other 4+ card suit) - or with a spades-and-clubs or spades-and-diamonds two-suiter (at least 5-4) with longer-or-equal spades - bid [2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#-2h-response-to-1c-opening).
+  - Note that the 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response does not include a two-suiter with spades and hearts. (With longer-or-equal hearts, the response is 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png); with longer spades, the response is 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).)
+- With a two-suiter with equal length in clubs and diamonds, bid [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-2s-response-to-1c-opening).
+- With a two-suiter in hearts and spades with longer spades, bid [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#-2nt-response-to-1c-opening).
 
 ## <a name="1D_response_to_1C_opening"> 1D response to 1C opening
 
