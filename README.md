@@ -54,7 +54,7 @@ To summarize the 1- and 2-level openings bids:
 - [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#2S_opening_bid) shows a hand with 6-10 HCP and (usually) 6 spades. This bid is not forcing.
 - [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#2NT_opening_bid) shows a hand with 5+ clubs and 5+ diamonds. The HCP range varies according to vulnerability and seat. This bid is forcing (with one exception).
 
-# <a name="1C_opening_bid"> 1C opening bid
+# <a name="1C_opening_bid"> Strong (1C) opening bid
 
 The 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows any hand with 16+ HCP. Responder should bid as follows (assuming that RHO has passed):
 

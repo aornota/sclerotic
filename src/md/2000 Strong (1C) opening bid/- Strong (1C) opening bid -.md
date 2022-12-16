@@ -1,4 +1,4 @@
-# <a name="1C_opening_bid"> 1C opening bid
+# <a name="1C_opening_bid"> Strong (1C) opening bid
 
 The {1C} opening bid shows any hand with 16+ HCP. Responder should bid as follows (assuming that RHO has passed):
 

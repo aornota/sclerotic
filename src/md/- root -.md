@@ -6,7 +6,7 @@
 
 {file:1000 Introduction\- Introduction -.md}
 
-{file:2000 1C opening bid\- 1C opening bid -.md}
+{file:2000 Strong (1C) opening bid\- Strong (1C) opening bid -.md}
 
 {file:3000 Other constructive opening bids\- Other constructive opening bids -.md}
 
