@@ -3,17 +3,17 @@
 ## Table of contents
 
 * [**Introduction**](#-introduction)
-* [**1C opening bid**](#-1c-opening-bid)
-  * [_**1D response to 1C opening bid**_](#-1d-response-to-1c-opening-bid)
-  * [_**1H response to 1C opening bid**_](#-1h-response-to-1c-opening-bid)
-  * [_**1S response to 1C opening bid**_](#-1s-response-to-1c-opening-bid)
-  * [_**1NT response to 1C opening bid**_](#-1nt-response-to-1c-opening-bid)
-  * [_**2C response to 1C opening bid**_](#-2c-response-to-1c-opening-bid)
-  * [_**2D response to 1C opening bid**_](#-2d-response-to-1c-opening-bid)
-  * [_**2H response to 1C opening bid**_](#-2h-response-to-1c-opening-bid)
-  * [_**2S response to 1C opening bid**_](#-2s-response-to-1c-opening-bid)
-  * [_**2NT response to 1C opening bid**_](#-2nt-response-to-1c-opening-bid)
-  * [_**Other responses to 1C opening bid**_](#-other-responses-to-1c-opening-bid)
+* [**Strong (1C) opening bid**](#-strong-1c-opening-bid)
+  * [_**1D response to 1C opening**_](#-1d-response-to-1c-opening)
+  * [_**1H response to 1C opening**_](#-1h-response-to-1c-opening)
+  * [_**1S response to 1C opening**_](#-1s-response-to-1c-opening)
+  * [_**1NT response to 1C opening**_](#-1nt-response-to-1c-opening)
+  * [_**2C response to 1C opening**_](#-2c-response-to-1c-opening)
+  * [_**2D response to 1C opening**_](#-2d-response-to-1c-opening)
+  * [_**2H response to 1C opening**_](#-2h-response-to-1c-opening)
+  * [_**2S response to 1C opening**_](#-2s-response-to-1c-opening)
+  * [_**2NT response to 1C opening**_](#-2nt-response-to-1c-opening)
+  * [_**Other responses to 1C opening**_](#-other-responses-to-1c-opening)
 * [**Other constructive opening bids**](#-other-constructive-opening-bids)
   * [_**1D opening bid**_](#-1d-opening-bid)
   * [_**1H opening bid**_](#-1h-opening-bid)
@@ -54,7 +54,7 @@ To summarize the 1- and 2-level openings bids:
 - [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#2S_opening_bid) shows a hand with 6-10 HCP and (usually) 6 spades. This bid is not forcing.
 - [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#2NT_opening_bid) shows a hand with 5+ clubs and 5+ diamonds. The HCP range varies according to vulnerability and seat. This bid is forcing (with one exception).
 
-# <a name="1C_opening_bid"> Strong (1C) opening bid
+# <a name="Strong_(1C)_opening_bid"> Strong (1C) opening bid
 
 The 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows any hand with 16+ HCP. Responder should bid as follows (assuming that RHO has passed):
 
@@ -74,43 +74,43 @@ With 9+ HCP, choose one of the following bids - all of which establish a game-fo
 - With a two-suiter with equal length in clubs and diamonds, bid [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#2S_response-to-1C-opening-bid).
 - With a two-suiter in hearts and spades with longer spades, bid [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#2NT_response-to-1C-opening-bid).
 
-## <a name="1D_response_to_1C_opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response
+## <a name="1D_response_to_1C_opening"> 1D response to 1C opening
 
 _Coming soon..._
 
-## <a name="1H_response_to_1C_opening_bid"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response
+## <a name="1H_response_to_1C_opening"> 1H response to 1C opening
 
 _Coming soon..._
 
-## <a name="1S_response_to_1C_opening_bid"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response
+## <a name="1S_response_to_1C_opening"> 1S response to 1C opening
 
 _Coming soon..._
 
-## <a name="1NT_response_to_1C_opening_bid"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response
+## <a name="1NT_response_to_1C_opening"> 1NT response to 1C opening
 
 _Coming soon..._
 
-## <a name="2C_response_to_1C_opening_bid"> 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) response
+## <a name="2C_response_to_1C_opening"> 2C response to 1C opening
 
 _Coming soon..._
 
-## <a name="2D_response_to_1C_opening_bid"> 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response
+## <a name="2D_response_to_1C_opening"> 2D response to 1C opening
 
 _Coming soon..._
 
-## <a name="2H_response_to_1C_opening_bid"> 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response
+## <a name="2H_response_to_1C_opening"> 2H response to 1C opening
 
 _Coming soon..._
 
-## <a name="2S_response_to_1C_opening_bid"> 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response
+## <a name="2S_response_to_1C_opening"> 2S response to 1C opening
 
 _Coming soon..._
 
-## <a name="2NT_response_to_1C_opening_bid"> 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response
+## <a name="2NT_response_to_1C_opening"> 2NT response to 1C opening
 
 _Coming soon..._
 
-## <a name="Other_responses_to_1C_opening_bid"> Other responses
+## <a name="Other_responses_to_1C_opening"> Other responses to 1C opening
 
 _Coming soon..._
 

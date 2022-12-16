@@ -158,7 +158,7 @@ let private processTocTag (logger:ILogger) (contents:string) (match':Match) =
         let match' = namedAnchor.Match(line)
         if match'.Success then
             let anchor = match'.Groups.[1].Value
-            let link = sprintf "-%s" (anchor.Replace("_", "-").ToLower())
+            let link = sprintf "-%s" (anchor.Replace("_", "-").Replace("(", "").Replace(")", "").ToLower())
             Some (link, anchor.Replace("_", " "))
         else None
     let (|H1|_|) (line:string) = if (line.Trim()).StartsWith("# ") then linkAndText line else None
