@@ -1,0 +1,17 @@
+{
+    "editor.fontSize": 12,
+    "editor.formatOnSave": false,
+    "files.exclude": {
+        ".config/": true,
+        ".ionide/": true,
+        ".paket/": true,
+        "paket-files/": true,
+        "src/**/bin/": true,
+        "src/**/logs/": true,
+        "src/**/obj/": true,
+        ".editorconfig": true,
+        "LICENSE": true,
+        "paket.lock": true
+    },
+    "FSharp.suggestSdkScripts": false
+}
