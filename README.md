@@ -74,43 +74,43 @@ With 9+ HCP, choose one of the following bids - all of which establish a game-fo
 - With a two-suiter with equal length in clubs and diamonds, bid [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#2S_response-to-1C-opening-bid).
 - With a two-suiter in hearts and spades with longer spades, bid [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#2NT_response-to-1C-opening-bid).
 
-## <a name="1D_response_to_1C_opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="1D_response_to_1C_opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response
 
 _Coming soon..._
 
-## <a name="1H_response_to_1C_opening_bid"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="1H_response_to_1C_opening_bid"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response
 
 _Coming soon..._
 
-## <a name="1S_response_to_1C_opening_bid"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="1S_response_to_1C_opening_bid"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response
 
 _Coming soon..._
 
-## <a name="1NT_response_to_1C_opening_bid"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="1NT_response_to_1C_opening_bid"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response
 
 _Coming soon..._
 
-## <a name="2C_response_to_1C_opening_bid"> 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="2C_response_to_1C_opening_bid"> 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) response
 
 _Coming soon..._
 
-## <a name="2D_response_to_1C_opening_bid"> 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="2D_response_to_1C_opening_bid"> 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response
 
 _Coming soon..._
 
-## <a name="2H_response_to_1C_opening_bid"> 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="2H_response_to_1C_opening_bid"> 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response
 
 _Coming soon..._
 
-## <a name="2S_response_to_1C_opening_bid"> 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="2S_response_to_1C_opening_bid"> 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response
 
 _Coming soon..._
 
-## <a name="2NT_response_to_1C_opening_bid"> 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="2NT_response_to_1C_opening_bid"> 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response
 
 _Coming soon..._
 
-## <a name="Other_responses_to_1C_opening_bid"> Other responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+## <a name="Other_responses_to_1C_opening_bid"> Other responses
 
 _Coming soon..._
 
