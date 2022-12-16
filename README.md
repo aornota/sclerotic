@@ -43,16 +43,16 @@ Note that HCP ranges are not set in stone, e.g. a balanced hand with a "good 12"
 
 To summarize the 1- and 2-level openings bids:
 
-- [1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#1C_opening_bid) shows a hand with 16+ HCP. This bid is forcing.
-- [1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#1D_opening_bid) shows a hand with 11-15 HCP and 4+ diamonds. This bid is not forcing.
-- [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening_bid) shows a hand with 11-15 HCP and 5+ hearts (including 5332 hands with 13-15 HCP). This bid is not forcing.
-- [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening_bid) shows a hand with 11-15 HCP and 5+ spades (including 5332 hands with 13-15 HCP). This bid is not forcing.
-- [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_opening_bid) shows a balanced (4333, 4432, and 5332) hand with 13-15 HCP but without a 5-card major. This bid is not forcing.
-- [2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#2C_opening_bid) shows a hand with 11-15 HCP and 6+ clubs. This bid is not forcing.
-- [2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#2D_opening_bid) shows a hand with 11-15 HCP and 4=4=1=4 / 4=4=0=5 / 4=3=1=5 / 3=4=1=5 / 4=2=2=5 / 2=4=2=5 shape. This bid is forcing (with one exception).
-- [2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#2H_opening_bid) shows a hand with 6-10 HCP and (usually) 6 hearts. This bid is not forcing.
-- [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#2S_opening_bid) shows a hand with 6-10 HCP and (usually) 6 spades. This bid is not forcing.
-- [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#2NT_opening_bid) shows a hand with 5+ clubs and 5+ diamonds. The HCP range varies according to vulnerability and seat. This bid is forcing (with one exception).
+- [1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#-strong-1c-opening_bid) shows a hand with 16+ HCP. This bid is forcing.
+- [1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#-1d-opening-bid) shows a hand with 11-15 HCP and 4+ diamonds. This bid is not forcing.
+- [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#-1h-opening-bid) shows a hand with 11-15 HCP and 5+ hearts (including 5332 hands with 13-15 HCP). This bid is not forcing.
+- [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-1s-opening-bid) shows a hand with 11-15 HCP and 5+ spades (including 5332 hands with 13-15 HCP). This bid is not forcing.
+- [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#-1nt-opening-bid) shows a balanced (4333, 4432, and 5332) hand with 13-15 HCP but without a 5-card major. This bid is not forcing.
+- [2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#-2c-opening-bid) shows a hand with 11-15 HCP and 6+ clubs. This bid is not forcing.
+- [2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#-2d-opening-bid) shows a hand with 11-15 HCP and 4=4=1=4 / 4=4=0=5 / 4=3=1=5 / 3=4=1=5 / 4=2=2=5 / 2=4=2=5 shape. This bid is forcing (with one exception).
+- [2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#-2h-opening-bid) shows a hand with 6-10 HCP and (usually) 6 hearts. This bid is not forcing.
+- [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-2s-opening-bid) shows a hand with 6-10 HCP and (usually) 6 spades. This bid is not forcing.
+- [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#-2nt-opening-bid) shows a hand with 5+ clubs and 5+ diamonds. The HCP range varies according to vulnerability and seat. This bid is forcing (with one exception).
 
 # <a name="Strong_(1C)_opening_bid"> Strong (1C) opening bid
 
