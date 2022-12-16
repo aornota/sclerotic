@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-* [**Introduction**](#Introduction)
+* [**-introduction**](#-introduction)
 * [**1C opening bid**](#1C_opening_bid)
   * [_**1D response to 1C opening bid**_](#1D_response_to_1C_opening_bid)
   * [_**1H response to 1C opening bid**_](#1H_response_to_1C_opening_bid)
@@ -14,20 +14,20 @@
   * [_**2S response to 1C opening bid**_](#2S_response_to_1C_opening_bid)
   * [_**2NT response to 1C opening bid**_](#2NT_response_to_1C_opening_bid)
   * [_**Other responses to 1C opening bid**_](#Other_responses_to_1C_opening_bid)
-* [**Other constructive opening bids**](#Other_constructive_opening_bids)
+* [**-other-constructive-opening-bids**](#-other-constructive-opening-bids)
   * [_**1D opening bid**_](#1D_opening_bid)
   * [_**1H opening bid**_](#1H_opening_bid)
   * [_**1S opening bid**_](#1S_opening_bid)
   * [_**1NT opening bid**_](#1NT_opening_bid)
   * [_**2C opening bid**_](#2C_opening_bid)
   * [_**2D opening bid**_](#2D_opening_bid)
-* [**Pre-emptive opening bids**](#Pre-emptive_opening_bids)
+* [**-pre-emptive-opening-bids**](#-pre-emptive-opening-bids)
   * [_**2H opening bid**_](#2H_opening_bid)
   * [_**2S opening bid**_](#2S_opening_bid)
   * [_**2NT opening bid**_](#2NT_opening_bid)
   * [_**Other pre-emptive opening bids**_](#Other_pre-emptive_opening_bids)
 
-# <a name="Introduction"> Introduction
+# <a name="-introduction"> Introduction
 
 Sclerotic is an experimental "strong club" Bridge bidding system.
 
@@ -114,7 +114,7 @@ _Coming soon..._
 
 _Coming soon..._
 
-# <a name="Other_constructive_opening_bids"> Other constructive opening bids
+# <a name="-other-constructive-opening-bids"> Other constructive opening bids
 
 ## <a name="1D_opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid
 
@@ -140,7 +140,7 @@ _Coming soon..._
 
 _Coming soon..._
 
-# <a name="Pre-emptive_opening_bids"> Pre-emptive opening bids
+# <a name="-pre-emptive-opening-bids"> Pre-emptive opening bids
 
 ## <a name="2H_opening_bid"> 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid
 
