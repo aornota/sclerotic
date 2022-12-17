@@ -110,8 +110,33 @@ Following responder's shortness-showing bid, opener will make an asking bid:
 
 - Bidding a suit other than responder's short suit at the cheapest level is a [suit-agreement bid](#-suit-agreement-bid) and asks for responder's control count.
 - Bidding responder's short suit at the 3-level is also a [suit-agreement bid](#-suit-agreement-bid) - albeit more of an imposition than an agreement, given responder's shortness in the suit - and asks for responder's control count.
-  - Note that opener will need a very strong suit to play opposite a singleton or void. Otherwise, they should prefer an NT contract.
+  - Note that opener will need a very strong suit to play a contract in that suit opposite a singleton or void. Otherwise, they should prefer an NT contract.
 - Bidding 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) is an [HCP range ask bid](#-nt-range-ask-bid) and asks for responder's HCP range.
+
+##### Example auction with a suit-agreement bid
+
+The 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opener has:
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AQ74![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)K8532![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AJ![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQ -- semi-balanced (_**4**_=**5**=_2_=_2_) | 19 HCP | CC = 6
+
+Responder bids 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) with:
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)KJ98![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)6![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)K543![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)A962 -- unbalanced (_**4**_=_1_=_**4**_=_**4**_) | 11 HCP | CC = 4
+
+The auction continues as follows:
+
+- (Opener) 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png): asks for shortness
+- (Responder) **_WARNING_ -> Unprocessed tag:**:
+- (Opener) **_WARNING_ -> Unprocessed tag:**:
+- (Responder) **_WARNING_ -> Unprocessed tag:**:
+- (Opener) **_WARNING_ -> Unprocessed tag:**:
+
+
+
+
+
+
+
 
 
 ### <a name="1NT_response_to_1C_opening"> 1NT response to 1C opening
