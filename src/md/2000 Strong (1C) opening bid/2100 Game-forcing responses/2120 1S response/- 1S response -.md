@@ -67,7 +67,7 @@ Opener places the contract in {3NT} (declared by them).
 (* TODO-NMB: More examples?...
 
 N -> ♠K8 ♥AJ64 ♦A65 ♣A532 -- 16 HCP | balanced (2=4=3=4) | CC = 7
-E -> ♠AQT763 ♥T953 ♦J ♣KT -- 10 HCP | very unbalanced (6=4=1=2) | CC = 3
+ -> ♠AQT763 ♥T953 ♦J ♣KT -- 10 HCP | very unbalanced (6=4=1=2) | CC = 3
 S -> ♠9 ♥KQ72 ♦KT83 ♣Q876 -- 10 HCP | unbalanced (1=4=4=4) | CC = 2
 W -> ♠J542 ♥8 ♦Q9742 ♣J94 --  4 HCP | unbalanced (4=1=5=3) | CC = 0
 
@@ -119,7 +119,7 @@ S -> 1S: 9+; three-suited (4441 | 5440) ; GF
 
 -----
 
-
+...
 
 N -> 1C: 16+; any shape
 S -> 1S: 9+; three-suited (4441 | 5440) ; GF

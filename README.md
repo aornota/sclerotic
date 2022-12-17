@@ -98,6 +98,7 @@ If opener's RHO bids over this reponse, see [coping with interference over game-
 
 _More coming soon..._
 
+
 ### <a name="1S_response_to_1C_opening"> 1S response to 1C opening
 
 The 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a three-suited (4441 or 5440) hand with 9+ HCP. This response is forcing to game.
@@ -117,11 +118,11 @@ Following responder's shortness-showing bid, opener will make an asking bid:
 
 The 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opener has:
 
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AQ74![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)K8532![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AJ![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQ -- semi-balanced (_**4**_=**5**=_2_=_2_) | 19 HCP | CC = 6
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AQ74![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)K8532![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AJ![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQ -- semi-balanced (_**4**_=**5**=_2_=_2_) | 19 HCP | control count = 6
 
 Responder bids 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) with:
 
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)KJ98![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)6![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)K543![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)A962 -- unbalanced (_**4**_=_1_=_**4**_=_**4**_) | 11 HCP | CC = 4
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)KJ98![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)6![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)K543![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)A962 -- unbalanced (_**4**_=_1_=_**4**_=_**4**_) | 11 HCP | control count = 4
 
 The auction continues:
 
@@ -140,11 +141,11 @@ Barring bad breaks, opener can picture 12 tricks - two top diamonds, three top c
 
 The 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opener has:
 
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)K7![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AKQJ![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)7653![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)K86 -- balanced (_2_=_**4**_=_**4**_=3) | 16 HCP | CC = 5
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)K7![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AKQJ![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)7653![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)K86 -- balanced (_2_=_**4**_=_**4**_=3) | 16 HCP | control count = 5
 
 Responder bids 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) with:
 
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)J983![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)9![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AKJ8![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)T953 -- unbalanced (_**4**_=_1_=_**4**_=_**4**_) | 9 HCP | CC = 3
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)J983![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)9![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AKJ8![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)T953 -- unbalanced (_**4**_=_1_=_**4**_=_**4**_) | 9 HCP | control count = 3
 
 The auction continues:
 

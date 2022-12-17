@@ -96,7 +96,7 @@ let private processHandTag (fileInfo:FileInfo) (match':Match) =
                                 Some $"{hand.ShapeCategory.TextLower} ({suitCountsMd})"
                             else None
                         let hcpMd = if showHcp then Some $"{hand.Hcp} HCP" else None
-                        let ccMd = if showCc then Some $"CC = {hand.ControlCount}" else None
+                        let ccMd = if showCc then Some $"control count = {hand.ControlCount}" else None
                         shapeMd, hcpMd, ccMd
                     else None, None, None
                 let additionalInfoMd =
