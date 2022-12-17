@@ -5,7 +5,7 @@ The {1C} opening bid shows any hand with 16+ HCP. Responder should bid as follow
 - With 9+ HCP, make a [game-forcing bid](-game-forcing-responses-to-1c-opening-bid).
 - With 0-8 HCP, make a [non-game-forcing bid](-non-game-forcing-responses-to-1c-opening-bid).
 
-If opener's LHO bids, see [coping with interference over {1C} opening](#-coping-with-interference-over-1c-opening).
+If opener's LHO bids over the {1C} opening, see [coping with interference over {1C} opening](#-coping-with-interference-over-1c-opening).
 
 {file:2100 Game-forcing responses\- Game-forcing responses -.md}
 

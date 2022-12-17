@@ -2,7 +2,7 @@
 
 The {1S} response to a {1C} opening bid shows a three-suited (4441 or 5440) hand with 9+ HCP. This response is forcing to game.
 
-If opener's RHO bids, see [coping with interference over game-forcing responses to {1C} opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+If opener's RHO bids over this reponse, see [coping with interference over game-forcing responses to {1C} opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
 
 Otherwise, opener should bid {1NT} to ask responder to bid their singleton or void at the 2-level. (Note that if opener has a single-suited hand, it is likely that responder's shortness will be in that suit. Nonetheless, even if opener's suit is strong enough to play a contract in that suit opposite a singleton or void, they should still bid {1NT} because in the rare cases where responder's shortness is in another suit, prospects for slam have improved significantly.)
 

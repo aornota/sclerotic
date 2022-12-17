@@ -71,7 +71,7 @@ The 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C
 - With 9+ HCP, make a [game-forcing bid](-game-forcing-responses-to-1c-opening-bid).
 - With 0-8 HCP, make a [non-game-forcing bid](-non-game-forcing-responses-to-1c-opening-bid).
 
-If opener's LHO bids, see [coping with interference over 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-1c-opening).
+If opener's LHO bids over the 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening, see [coping with interference over 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-1c-opening).
 
 ## <a name="Game-forcing_responses_to_1C_opening_bid"> Game-forcing reponses to 1C opening bid
 
@@ -91,7 +91,7 @@ If opener's LHO passes after a 1![C](https://raw.githubusercontent.com/aornota/r
 
 The 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a balanced (4333, 4432 or 5332) hand with 9+ HCP. This response is forcing to game.
 
-If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+If opener's RHO bids over this reponse, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
 
 
 
@@ -102,7 +102,7 @@ _More coming soon..._
 
 The 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a three-suited (4441 or 5440) hand with 9+ HCP. This response is forcing to game.
 
-If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+If opener's RHO bids over this reponse, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
 
 Otherwise, opener should bid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) to ask responder to bid their singleton or void at the 2-level. (Note that if opener has a single-suited hand, it is likely that responder's shortness will be in that suit. Nonetheless, even if opener's suit is strong enough to play a contract in that suit opposite a singleton or void, they should still bid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) because in the rare cases where responder's shortness is in another suit, prospects for slam have improved significantly.)
 
@@ -118,7 +118,7 @@ Following responder's shortness-showing bid, opener will make an asking bid:
 
 The 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a single-suiter in clubs (6+ clubs and no other 4+ card suit) - or a two-suiter (at least 5-4) with longer clubs - with 9+ HCP. This response is forcing to game.
 
-If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+If opener's RHO bids over this reponse, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
 
 _More coming soon..._
 
@@ -126,7 +126,7 @@ _More coming soon..._
 
 The 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a single-suiter in diamonds (6+ diamonds and no other 4+ card suit) - or a two-suiter (at least 5-4) with longer diamonds - with 9+ HCP. This response is forcing to game.
 
-If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+If opener's RHO bids over this reponse, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
 
 _More coming soon..._
 
@@ -134,7 +134,7 @@ _More coming soon..._
 
 The 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a single-suiter in hearts (6+ hearts and no other 4+ card suit) - or a two-suiter (at least 5-4) with longer-or-equal hearts - with 9+ HCP. This response is forcing to game.
 
-If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+If opener's RHO bids over this reponse, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
 
 _More coming soon..._
 
@@ -144,7 +144,7 @@ The 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H
 
 Note that the 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response does not include a spades-and-hearts two-suiter. (With longer-or-equal hearts, the response is [2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#-2d-response-to-1c-opening); with longer spades, the response is [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#-2nt-response-to-1c-opening).)
 
-If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+If opener's RHO bids over this reponse, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
 
 _More coming soon..._
 
@@ -152,7 +152,7 @@ _More coming soon..._
 
 The 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a two-suiter with equal length in clubs and diamonds and 9+ HCP. This response is forcing to game.
 
-If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+If opener's RHO bids over this reponse, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
 
 _More coming soon..._
 
@@ -160,7 +160,7 @@ _More coming soon..._
 
 The 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a two-suiter in hearts and spades with longer spades and 9+ HCP. This response is forcing to game.
 
-If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+If opener's RHO bids over this reponse, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
 
 _More coming soon..._
 
@@ -262,7 +262,7 @@ If opener's LHO passes after a 1![C](https://raw.githubusercontent.com/aornota/r
 
 The 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a hand with 0-8 HCP and no 7+ card suit. This bid forces opener to make at least one more bid if opener's RHO passes.
 
-If opener's RHO bids, see [coping with interference over non-game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-non-game-forcing-responses-to-1c-opening).
+If opener's RHO bids over this reponse, see [coping with interference over non-game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-non-game-forcing-responses-to-1c-opening).
 
 _More coming soon..._
 
@@ -270,7 +270,7 @@ _More coming soon..._
 
 The 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png), and 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) responses to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a hand with 0-8 HCP and 7+ cards in the suit bid. These bids are not forcing.
 
-If opener's RHO bids, see [coping with interference over non-game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-non-game-forcing-responses-to-1c-opening).
+If opener's RHO bids over this reponse, see [coping with interference over non-game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-non-game-forcing-responses-to-1c-opening).
 
 
 _More (e.g. when to bid higher than the 3-level) coming soon..._
