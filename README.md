@@ -112,7 +112,7 @@ Following responder's shortness-showing bid, opener will make an asking bid:
 - Bidding a suit other than responder's short suit at the cheapest level is a [suit-agreement bid](#-suit-agreement-bid) and asks for responder's control count.
 - Bidding responder's short suit at the 3-level is also a [suit-agreement bid](#-suit-agreement-bid) - albeit more of an imposition than an agreement, given responder's shortness in the suit - and asks for responder's control count.
   - Note that opener will need a very strong suit to play a contract in that suit opposite a singleton or void. Otherwise, they should prefer an NT contract.
-- Bidding 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) is an [HCP range ask bid](#-nt-range-ask-bid) and asks for responder's HCP range.
+- Bidding 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) is an [HCP range ask bid](#-hcp-range-ask-bid) and asks for responder's HCP range.
 
 ##### Example auction with a suit-agreement bid
 
@@ -152,10 +152,10 @@ The auction continues:
 - (Opener) 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png): asks for shortness
 - (Responder) 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png): heart singleton or void
 
-Although opener knows of an 8- or 9-card fit in diamonds, their awful holding in the suit makes them decide that an NT contract is preferable (especially with a very solid holding responder's short suit), so the auction continues:
+Although opener knows of an 8- or 9-card fit in diamonds, their awful holding in the suit makes them decide that an NT contract is preferable (especially with a very solid holding in responder's short suit), so the auction continues:
 
 - (Opener) 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png): HCP range ask
-- (Responder) 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png): 9-10 HCP
+- (Responder) 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) (1st step): 9-10 HCP
 
 Opener places the contract in 3![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) (declared by them).
 
