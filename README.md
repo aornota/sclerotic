@@ -109,13 +109,10 @@ Otherwise, opener should bid 1![NT](https://raw.githubusercontent.com/aornota/re
 Following responder's shortness-showing bid, opener will make an asking bid:
 
 - Bidding a suit other than responder's short suit at the cheapest level is a [suit-agreement bid](#-suit-agreement-bid) and asks for responder's control count.
-  - If opener next bids game in the agreed suit, this is to play. Responder must pass.
-- Bidding responder's short suit at the 3-level is also a [suit-agreement bid](#-suit-agreement-bid) - albeit more of an imposition than an agreement, given responder's shortness in the suit - and asks for responder's control count. (Note that opener will need a very strong suit to play opposite a singleton or void. Otherwise, they should prefer an NT contract.)
-  - If opener next bids game in the agreed suit, this is to play. Responder must pass.
+- Bidding responder's short suit at the 3-level is also a [suit-agreement bid](#-suit-agreement-bid) - albeit more of an imposition than an agreement, given responder's shortness in the suit - and asks for responder's control count.
+  - Note that opener will need a very strong suit to play opposite a singleton or void. Otherwise, they should prefer an NT contract.
 - Bidding 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) is an [HCP range ask bid](#-nt-range-ask-bid) and asks for responder's HCP range.
-  - If opener next bids 3![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png), this is to play. Responder must pass.
 
-_More coming soon..._
 
 ### <a name="1NT_response_to_1C_opening"> 1NT response to 1C opening
 
@@ -177,15 +174,82 @@ After a game-forcing response to a 1![C](https://raw.githubusercontent.com/aorno
 
 #### <a name="Suit-agreement_bid"> Suit-agreement bid
 
-_Coming soon..._
+A suit-agreement bid will usually be made below game. If so, responder should bid according to their control count - where each Ace counts as 2 and each King counts as 1 - as fdllows:
+
+- 1st step: control count = 0 or 1
+- 2nd step: control count = 2
+- 3rd step: control count = 3
+- 4th step: control count = 4
+- 5th step: control count = 5
+- and so on
+
+Note that if the suit-agreement bid was one level below game and responder has a control count of 6 or more, their bid will be higher than game in the agreed suit. This should not be a problem: slam will often be likely with such a strong hand opposite a strong opener.
+
+If opener next bids the agreed suit at game level or higher, this is to play and responder must pass.
+
+
+In the rare cases where a suit-agreement bid is made at the game level (i.e. 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png), 4![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 5![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) or 5![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)), responder should pass with a control count of 3 or less - and otherwise respond as follows:
+
+- 1st step: control count = 4
+- 2nd step: control count = 5
+- 3rd step: control count = 6
+- 4th step: control count = 7
+- 5th step: control count = 8
+- 6th step: control count = 9 or more
+
+If opener next bids the agreed suit, this is to play and responder must pass.
+
+_More (e.g. opener's other continuations) coming soon..._
 
 #### <a name="Suit-suggestion_bid"> Suit-suggestion bid
 
-_Coming soon..._
+
+A suit-suggestion bid will always be made below game. Responder should bid as follows:
+
+If the suit-suggestion bid was more than one level below game, responder should bid as follows:
+
+- 1st step: 2-card support
+- 2nd step: 3-card support without an Ace, King or Queen
+- 3rd step: control count = 0 or 1
+- 4th step: control count = 2
+- 5th step: control count = 3
+- and so on
+
+If opener next bids the suggested suit at game level or higher, this is to play and responder must pass.
+
+If the suit-suggestion bid was one level below game, responder should bid as follows:
+
+- 1st step: 2-card support
+- 2nd step: 3-card support without an Ace, King or Queen
+- 3rd step: control count = 0 or 1
+- 4th step: control count = 2
+- 5th step: control count = 3 or more
+
+If opener next bids the suggested suit, this is to play and responder must pass.
+
+
+
+_More (e.g. opener's other continuations) coming soon..._
 
 #### <a name="HCP_range_ask_bid"> HCP range ask bid
 
-_Coming soon..._
+
+An HCP range ask bid will always made below game (i.e. 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) or 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)). Responder should bid as follows:
+
+- 1st step: 9-10 HCP
+- 2nd step: 11-12 HCP
+- 3rd step: 13-14 HCP
+- 4th step: 15-16 HCP
+- 5th step: 17-18 HCP
+- and so on
+
+Note that if the HCP range ask bid was 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) and responder has 19+ HCP, their bid will be higher than 3![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png). This should not be a problem: slam will often be likely with such a strong hand opposite a strong opener.
+
+If opener next bids 3![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) or 6![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) (or 7![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)), this is to play and responder must pass.
+
+If opener next bids 4![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) or 5![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png), these are invites to 6![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) and 7![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) respectively. Responder should pass with the lower end of their HCP range and bid the NT slam otherwise.
+
+_More (e.g. opener's other continuations) coming soon..._
 
 ## <a name="Non-game-forcing_responses_to_1C_opening_bid"> Non-game-forcing reponses to 1C opening bid
 

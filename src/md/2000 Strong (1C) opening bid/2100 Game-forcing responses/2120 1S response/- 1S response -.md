@@ -9,10 +9,8 @@ Otherwise, opener should bid {1NT} to ask responder to bid their singleton or vo
 Following responder's shortness-showing bid, opener will make an asking bid:
 
 - Bidding a suit other than responder's short suit at the cheapest level is a [suit-agreement bid](#-suit-agreement-bid) and asks for responder's control count.
-  - If opener next bids game in the agreed suit, this is to play. Responder must pass.
-- Bidding responder's short suit at the 3-level is also a [suit-agreement bid](#-suit-agreement-bid) - albeit more of an imposition than an agreement, given responder's shortness in the suit - and asks for responder's control count. (Note that opener will need a very strong suit to play opposite a singleton or void. Otherwise, they should prefer an NT contract.)
-  - If opener next bids game in the agreed suit, this is to play. Responder must pass.
+- Bidding responder's short suit at the 3-level is also a [suit-agreement bid](#-suit-agreement-bid) - albeit more of an imposition than an agreement, given responder's shortness in the suit - and asks for responder's control count.
+  - Note that opener will need a very strong suit to play opposite a singleton or void. Otherwise, they should prefer an NT contract.
 - Bidding {2NT} is an [HCP range ask bid](#-nt-range-ask-bid) and asks for responder's HCP range.
-  - If opener next bids {3NT}, this is to play. Responder must pass.
 
-_More coming soon..._
+// TODO-NMB: Examples...
