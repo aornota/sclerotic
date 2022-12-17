@@ -4,16 +4,26 @@
 
 * [**Introduction**](#-introduction)
 * [**Strong (1C) opening bid**](#-strong-1c-opening-bid)
-  * [_**1D response to 1C opening**_](#-1d-response-to-1c-opening)
-  * [_**1H response to 1C opening**_](#-1h-response-to-1c-opening)
-  * [_**1S response to 1C opening**_](#-1s-response-to-1c-opening)
-  * [_**1NT response to 1C opening**_](#-1nt-response-to-1c-opening)
-  * [_**2C response to 1C opening**_](#-2c-response-to-1c-opening)
-  * [_**2D response to 1C opening**_](#-2d-response-to-1c-opening)
-  * [_**2H response to 1C opening**_](#-2h-response-to-1c-opening)
-  * [_**2S response to 1C opening**_](#-2s-response-to-1c-opening)
-  * [_**2NT response to 1C opening**_](#-2nt-response-to-1c-opening)
-  * [_**Other responses to 1C opening**_](#-other-responses-to-1c-opening)
+  * [_**Game-forcing responses to 1C opening bid**_](#-game-forcing-responses-to-1c-opening-bid)
+    * [1H response to 1C opening](#-1h-response-to-1c-opening)
+    * [1S response to 1C opening](#-1s-response-to-1c-opening)
+    * [1NT response to 1C opening](#-1nt-response-to-1c-opening)
+    * [2C response to 1C opening](#-2c-response-to-1c-opening)
+    * [2D response to 1C opening](#-2d-response-to-1c-opening)
+    * [2H response to 1C opening](#-2h-response-to-1c-opening)
+    * [2S response to 1C opening](#-2s-response-to-1c-opening)
+    * [2NT response to 1C opening](#-2nt-response-to-1c-opening)
+    * [Subsequent asking bids](#-subsequent-asking-bids)
+      * [_Suit-agreement bid_](#-suit-agreement-bid)
+      * [_Suit-suggestion bid_](#-suit-suggestion-bid)
+      * [_HCP range ask bid_](#-hcp-range-ask-bid)
+  * [_**Non-game-forcing responses to 1C opening bid**_](#-non-game-forcing-responses-to-1c-opening-bid)
+    * [1D response to 1C opening](#-1d-response-to-1c-opening)
+    * [3-level (and higher) responses to 1C opening](#-3-level-and-higher-responses-to-1c-opening)
+  * [_**Coping with interfernce after 1C opening bid**_](#-coping-with-interfernce-after-1c-opening-bid)
+    * [Coping with interference over 1C opening](#-coping-with-interference-over-1c-opening)
+    * [Coping with interference over game-forcing responses to 1C opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening)
+    * [Coping with interference over non-game-forcing responses to 1C opening](#-coping-with-interference-over-non-game-forcing-responses-to-1c-opening)
 * [**Other constructive opening bids**](#-other-constructive-opening-bids)
   * [_**1D opening bid**_](#-1d-opening-bid)
   * [_**1H opening bid**_](#-1h-opening-bid)
@@ -56,13 +66,16 @@ To summarize the 1- and 2-level openings bids:
 
 # <a name="Strong_(1C)_opening_bid"> Strong (1C) opening bid
 
-The 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows any hand with 16+ HCP. Responder should bid as follows (assuming that RHO has passed):
+The 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows any hand with 16+ HCP. Responder should bid as follows if opener's LHO passes:
 
-With 0-8 HCP and no 7+ card suit, bid [1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#-1d-response-to-1c-opening). This bid forces opener to make at least one more bid (assuming that LHO passes).
+- With 9+ HCP, make a [game-forcing bid](-game-forcing-responses-to-1c-opening-bid).
+- With 0-8 HCP, make a [non-game-forcing bid](-non-game-forcing-responses-to-1c-opening-bid).
 
-With 0-8 HCP and a 7+ card suit, bid [the suit at the 3-level (or higher)](#-other-responses-to-1c-opening). This bid is not forcing.
+If opener's LHO bids, see [coping with interference over 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-1c-opening).
 
-With 9+ HCP, choose one of the following bids - all of which are forcing to game - depending on shape:
+## <a name="Game-forcing_responses_to_1C_opening_bid"> Game-forcing reponses to 1C opening bid
+
+If opener's LHO passes after a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid and responder has 9+ HCP, they should choose one of the following bids - all of which are forcing to game - depending on shape:
 
 - With a balanced (4333, 4432 or 5332) hand, bid [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#-1h-response-to-1c-opening).
 - With a three-suited (4441 or 5440) hand, bid [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-1s-response-to-1c-opening).
@@ -74,71 +87,143 @@ With 9+ HCP, choose one of the following bids - all of which are forcing to game
 - With a two-suiter with equal length in clubs and diamonds, bid [2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-2s-response-to-1c-opening).
 - With a two-suiter in hearts and spades with longer spades, bid [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#-2nt-response-to-1c-opening).
 
-## <a name="1D_response_to_1C_opening"> 1D response to 1C opening
-
-The 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a hand with 0-8 HCP and no 7+ card suit. This bid forces opener to make at least one more bid (assuming that LHO passes).
-
-_More coming soon..._
-
-## <a name="1H_response_to_1C_opening"> 1H response to 1C opening
+### <a name="1H_response_to_1C_opening"> 1H response to 1C opening
 
 The 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a balanced (4333, 4432 or 5332) hand with 9+ HCP. This response is forcing to game.
 
+If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+
 
 
 
 _More coming soon..._
 
-## <a name="1S_response_to_1C_opening"> 1S response to 1C opening
+### <a name="1S_response_to_1C_opening"> 1S response to 1C opening
 
 The 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a three-suited (4441 or 5440) hand with 9+ HCP. This response is forcing to game.
 
+If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+
+Otherwise, opener should bid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) to ask responder to bid their singleton or void at the 2-level. (Note that if opener has a single-suited hand, it is likely that responder's shortness will be in that suit. Nonetheless, even if opener's suit is strong enough to play a contract in that suit opposite a singleton or void, they should still bid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) because in the rare cases where responder's shortness is in another suit, prospects for slam have improved significantly.)
+
+Following responder's shortness-showing bid, opener will make an asking bid:
+
+- Bidding a suit other than responder's short suit at the cheapest level is a [suit-agreement bid](#-suit-agreement-bid) and asks for responder's control count.
+  - If opener next bids game in the agreed suit, this is to play. Responder must pass.
+- Bidding responder's short suit at the 3-level is also a [suit-agreement bid](#-suit-agreement-bid) - albeit more of an imposition than an agreement, given responder's shortness in the suit - and asks for responder's control count. (Note that opener will need a very strong suit to play opposite a singleton or void. Otherwise, they should prefer an NT contract.)
+  - If opener next bids game in the agreed suit, this is to play. Responder must pass.
+- Bidding 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) is an [HCP range ask bid](#-nt-range-ask-bid) and asks for responder's HCP range.
+  - If opener next bids 3![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png), this is to play. Responder must pass.
+
 _More coming soon..._
 
-## <a name="1NT_response_to_1C_opening"> 1NT response to 1C opening
+### <a name="1NT_response_to_1C_opening"> 1NT response to 1C opening
 
 The 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a single-suiter in clubs (6+ clubs and no other 4+ card suit) - or a two-suiter (at least 5-4) with longer clubs - with 9+ HCP. This response is forcing to game.
 
+If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+
 _More coming soon..._
 
-## <a name="2C_response_to_1C_opening"> 2C response to 1C opening
+### <a name="2C_response_to_1C_opening"> 2C response to 1C opening
 
 The 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a single-suiter in diamonds (6+ diamonds and no other 4+ card suit) - or a two-suiter (at least 5-4) with longer diamonds - with 9+ HCP. This response is forcing to game.
 
+If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+
 _More coming soon..._
 
-## <a name="2D_response_to_1C_opening"> 2D response to 1C opening
+### <a name="2D_response_to_1C_opening"> 2D response to 1C opening
 
 The 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a single-suiter in hearts (6+ hearts and no other 4+ card suit) - or a two-suiter (at least 5-4) with longer-or-equal hearts - with 9+ HCP. This response is forcing to game.
 
+If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+
 _More coming soon..._
 
-## <a name="2H_response_to_1C_opening"> 2H response to 1C opening
+### <a name="2H_response_to_1C_opening"> 2H response to 1C opening
 
 The 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a single-suiter in spades (6+ spades and no other 4+ card suit) - or a pades-and-clubs or spades-and-diamonds two-suiter (at least 5-4) with longer-or-equal spades - with 9+ HCP. This response is forcing to game.
 
 Note that the 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response does not include a spades-and-hearts two-suiter. (With longer-or-equal hearts, the response is [2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#-2d-response-to-1c-opening); with longer spades, the response is [2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#-2nt-response-to-1c-opening).)
 
+If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+
 _More coming soon..._
 
-## <a name="2S_response_to_1C_opening"> 2S response to 1C opening
+### <a name="2S_response_to_1C_opening"> 2S response to 1C opening
 
 The 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a two-suiter with equal length in clubs and diamonds and 9+ HCP. This response is forcing to game.
 
+If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+
 _More coming soon..._
 
-## <a name="2NT_response_to_1C_opening"> 2NT response to 1C opening
+### <a name="2NT_response_to_1C_opening"> 2NT response to 1C opening
 
 The 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a two-suiter in hearts and spades with longer spades and 9+ HCP. This response is forcing to game.
 
+If opener's RHO bids, see [coping with interference over game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-game-forcing-responses-to-1c-opening).
+
 _More coming soon..._
 
-## <a name="Other_responses_to_1C_opening"> Other responses to 1C opening
+### <a name="Subsequent_asking_bids"> Subsequent asking bids
+
+After a game-forcing response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid - and assusming that the opponents do not interfere - opener will almost always make an asking bid later in the auction:
+
+- If opener wants to play a suit contact (either in a known fit or with a single-suited hand), they will make a [suit-agreement bid](#-suit-agreement-bid). This asks for responder's control count.
+- If opener might want to play a suit contract (depending on responder's support for the suit), they will make a [suit-suggestion bid](#-suit-suggestion-bid). This asks for responder's support for the suit - and, with good support, for responder's control count.
+- If opener wants to play an NT contract, they will make an [HCP range ask bid](#-nt-range-ask-bid). This asks for responder's HCP range.
+
+#### <a name="Suit-agreement_bid"> Suit-agreement bid
+
+_Coming soon..._
+
+#### <a name="Suit-suggestion_bid"> Suit-suggestion bid
+
+_Coming soon..._
+
+#### <a name="HCP_range_ask_bid"> HCP range ask bid
+
+_Coming soon..._
+
+## <a name="Non-game-forcing_responses_to_1C_opening_bid"> Non-game-forcing reponses to 1C opening bid
+
+If opener's LHO passes after a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid and responder has 0-8 HCP, they should bid as follows:
+
+- With no 7+ card suit, bid [1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#-1d-response-to-1c-opening). This bid forces opener to make at least one more bid if opener's RHO passes.
+- With a 7+ card suit, bid [the suit at the 3-level (or higher)](#-other-responses-to-1c-opening). This bid is not forcing.
+
+### <a name="1D_response_to_1C_opening"> 1D response to 1C opening
+
+The 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) response to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a hand with 0-8 HCP and no 7+ card suit. This bid forces opener to make at least one more bid if opener's RHO passes.
+
+If opener's RHO bids, see [coping with interference over non-game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-non-game-forcing-responses-to-1c-opening).
+
+_More coming soon..._
+
+### <a name="3-level_(and_higher)_responses_to_1C_opening"> 3-level (and higher) responses to 1C opening
 
 The 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png), and 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) responses to a 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid shows a hand with 0-8 HCP and 7+ cards in the suit bid. These bids are not forcing.
 
+If opener's RHO bids, see [coping with interference over non-game-forcing responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening](#-coping-with-interference-over-non-game-forcing-responses-to-1c-opening).
 
-_More coming soon..._
+
+_More (e.g. when to bid higher than the 3-level) coming soon..._
+
+## <a name="Coping_with_interfernce_after_1C_opening_bid"> Coping with interference after 1C opening bid
+
+### <a name="Coping_with_interference_over_1C_opening"> Coping with interference over 1C opening
+
+_Coming soon..._
+
+### <a name="Coping_with_interference_over_game-forcing_responses_to_1C_opening"> Coping with interference over game-forcing responses to 1C opening
+
+_Coming soon..._
+
+### <a name="Coping_with_interference_over_non-game-forcing_responses_to_1C_opening"> Coping with interference over non-game-forcing responses to 1C opening
+
+_Coming soon..._
 
 # <a name="Other_constructive_opening_bids"> Other constructive opening bids
 

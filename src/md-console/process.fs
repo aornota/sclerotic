@@ -39,7 +39,7 @@ let private processBidTag (fileInfo:FileInfo) (match':Match) =
     | Ok bid -> bid.MdString
     | Error error -> failwith $"{fileInfo.FullName} -> {nameof Bid} tag {match'.Value} is invalid: {error}"
 
-let private handTag = Regex("{\|(.+)\|}") // e.g. {| s:AK63 h:T42 d:- c:AQJT62 --shape --hcp |} | {| s:3 h:T d:- c:JT6 --partial |}
+let private handTag = Regex("{\|(.+)\|}") // e.g. {| s:AK63 h:T42 d:- c:AQJT62 --shape --hcp --cc |} | {| s:3 h:T d:- c:JT6 --partial |}
 let private processHandTag (fileInfo:FileInfo) (match':Match) =
     let suitWithRanks (suit:Suit) (splits:string list) =
         let suitChar = match suit with | Spade -> 's' | Heart -> 'h' | Diamond -> 'd' | Club -> 'c'
@@ -73,14 +73,15 @@ let private processHandTag (fileInfo:FileInfo) (match':Match) =
         let isPartial = splits |> List.exists (fun split -> split = "--partial")
         let showShape = splits |> List.exists (fun split -> split = "--shape")
         let showHcp = splits |> List.exists (fun split -> split = "--hcp")
+        let showCc = splits |> List.exists (fun split -> split = "--cc")
         return!
             match cardCount, isPartial with
             | n, _ when n > 13 -> Error $"{nameof Hand} contains more than 13 cards"
             | 13, true -> Error $"--partial flag should only be used when {nameof Hand} contains fewer than 13 cards"
             | 13, false ->
                 let cardsMd = cardsMd spadeRanks heartRanks diamondRanks clubRanks
-                let shapeMd, hcpMd =
-                    if showShape || showHcp then
+                let shapeMd, hcpMd, ccMd =
+                    if showShape || showHcp || showCc then
                         let spades = snd spadeRanks |> List.map (fun rank -> Card.Make(rank, Spade))
                         let hearts = snd heartRanks |> List.map (fun rank -> Card.Make(rank, Heart))
                         let diamonds = snd diamondRanks |> List.map (fun rank -> Card.Make(rank, Diamond))
@@ -95,14 +96,19 @@ let private processHandTag (fileInfo:FileInfo) (match':Match) =
                                 Some $"{hand.ShapeCategory.TextLower} ({suitCountsMd})"
                             else None
                         let hcpMd = if showHcp then Some $"{hand.Hcp} HCP" else None
-                        shapeMd, hcpMd
-                    else None, None
+                        let ccMd = if showCc then Some $"CC = {hand.ControlCount}" else None
+                        shapeMd, hcpMd, ccMd
+                    else None, None, None
                 let additionalInfoMd =
-                    match shapeMd, hcpMd with
-                    | Some shapeMd, Some hcpMd -> $" -- {shapeMd} | {hcpMd}"
-                    | Some shapeMd, None -> $" -- {shapeMd}"
-                    | None, Some hcpMd -> $" -- {hcpMd}"
-                    | None, None -> ""
+                    match shapeMd, hcpMd, ccMd with
+                    | Some shapeMd, Some hcpMd, Some ccMd -> $" -- {shapeMd} | {hcpMd} | {ccMd}"
+                    | Some shapeMd, Some hcpMd, None -> $" -- {shapeMd} | {hcpMd}"
+                    | Some shapeMd, None, Some ccMd -> $" -- {shapeMd} | {ccMd}"
+                    | Some shapeMd, None, None -> $" -- {shapeMd}"
+                    | None, Some hcpMd, Some ccMd -> $" -- {hcpMd} | {ccMd}"
+                    | None, Some hcpMd, None -> $" -- {hcpMd}"
+                    | None, None, Some ccMd -> $" -- {ccMd}"
+                    | None, None, None -> ""
                 Ok $"{cardsMd}{additionalInfoMd}"
             | _, true ->
                 if showShape then Error $"--shape flag should not be used when {nameof Hand} contains fewer than 13 cards"
