@@ -123,19 +123,40 @@ Responder bids 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)KJ98![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)6![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)K543![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)A962 -- unbalanced (_**4**_=_1_=_**4**_=_**4**_) | 11 HCP | CC = 4
 
-The auction continues as follows:
+The auction continues:
 
 - (Opener) 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png): asks for shortness
 - (Responder) 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png): heart singleton or void
 - (Opener) 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png): suit-agreement bid (known 8- or 9-card fit)
 - (Responder) 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) (4th step): control count = 4
 
-Opener knows that responder cannot have 4 Kings, so must either have the other two Aces (![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)A and ![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)A) - or one of these Aces and the other two Kings (![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)K and ![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)K). Given that they are known to have a heart singleton or void, they are mostly likely to have specifically ![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)A, ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)K, and ![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)K.
+Opener knows that responder cannot have four Kings, so must either have the other two Aces (![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)A and ![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)A) - or one of these Aces and the other two Kings (![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)K and ![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)K). Given that they are known to have a heart singleton or void, they are mostly likely to have specifically ![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)A, ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)K, and ![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)K.
 
-Barring bad breaks, opener can picture 12 tricks - two top diamonds, three top clubs, four trumps, and three heart ruffs - so bids 6![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) (declared by responder).
+Barring bad breaks, opener can picture 12 tricks - two top diamonds, three top clubs, four trumps, and three heart ruffs - so places the contract in 6![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) (declared by responder).
 
 
 
+##### Example auction with an HCP range ask bid
+
+The 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opener has:
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)K7![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AKQJ![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)7653![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)K86 -- balanced (_2_=_**4**_=_**4**_=3) | 16 HCP | CC = 5
+
+Responder bids 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) with:
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)J983![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)9![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AKJ8![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)T953 -- unbalanced (_**4**_=_1_=_**4**_=_**4**_) | 9 HCP | CC = 3
+
+The auction continues:
+
+- (Opener) 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png): asks for shortness
+- (Responder) 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png): heart singleton or void
+
+Although opener knows of an 8- or 9-card fit in diamonds, their awful holding in the suit makes them decide that an NT contract is preferable (especially with a very solid holding responder's short suit), so the auction continues:
+
+- (Opener) 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png): HCP range ask
+- (Responder) 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png): 9-10 HCP
+
+Opener places the contract in 3![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) (declared by them).
 
 
 
