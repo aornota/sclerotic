@@ -126,12 +126,13 @@ Responder bids 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/
 The auction continues as follows:
 
 - (Opener) 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png): asks for shortness
-- (Responder) **_WARNING_ -> Unprocessed tag:**:
-- (Opener) **_WARNING_ -> Unprocessed tag:**:
-- (Responder) **_WARNING_ -> Unprocessed tag:**:
-- (Opener) **_WARNING_ -> Unprocessed tag:**:
+- (Responder) 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png): heart singleton or void
+- (Opener) 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png): suit-agreement bid (known 8- or 9-card fit)
+- (Responder) 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) (4th step): control count = 4
 
+Opener knows that responder cannot have 4 Kings, so must either have the other two Aces (![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)A and ![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)A) - or one of these Aces and the other two Kings (![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)K and ![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)K). Given that they are known to have a heart singleton or void, they are mostly likely to have specifically ![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)A, ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)K, and ![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)K.
 
+Barring bad breaks, opener can picture 12 tricks - two top diamonds, three top clubs, four trumps, and three heart ruffs - so bids 6![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) (declared by responder).
 
 
 

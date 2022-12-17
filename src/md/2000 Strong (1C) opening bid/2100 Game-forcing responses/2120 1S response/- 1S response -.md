@@ -26,12 +26,13 @@ Responder bids {1S} with:
 The auction continues as follows:
 
 - (Opener) {1NT}: asks for shortness
-- (Responder) {}:
-- (Opener) {}:
-- (Responder) {}:
-- (Opener) {}:
+- (Responder) {2H}: heart singleton or void
+- (Opener) {2S}: suit-agreement bid (known 8- or 9-card fit)
+- (Responder) {3H} (4th step): control count = 4
 
+Opener knows that responder cannot have 4 Kings, so must either have the other two Aces ({Ah} and {Ac}) - or one of these Aces and the other two Kings ({Ks} and {Kd}). Given that they are known to have a heart singleton or void, they are mostly likely to have specifically {Ac}, {Ks}, and {Kd}.
 
+Barring bad breaks, opener can picture 12 tricks - two top diamonds, three top clubs, four trumps, and three heart ruffs - so bids {6S} (declared by responder).
 
 // TODO-NMB: Run simulation to see how often the contract makes?...
 
